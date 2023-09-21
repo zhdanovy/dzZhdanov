@@ -4,7 +4,7 @@
 
 Склонируйте репозиторий:
 git clone https://github.com/zhdanovy/dzZhdanov.git
-cd ваш_репозиторий
+cd ваш_репозиторий/demo
 mvn spring-boot:run
 отправьте POST запрос по адресу http://localhost:8080/ok/process
 в виде 
