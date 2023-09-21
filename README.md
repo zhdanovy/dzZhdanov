@@ -2,11 +2,11 @@
 
 ## Запуск проекта
 
-Склонируйте репозиторий:
+1. Склонируйте репозиторий:
 git clone https://github.com/zhdanovy/dzZhdanov.git
-cd ваш_репозиторий/demo
-mvn spring-boot:run
-отправьте POST запрос по адресу http://localhost:8080/ok/process
+2. cd ваш_репозиторий/demo
+3. mvn spring-boot:run
+4. отправьте POST запрос по адресу http://localhost:8080/ok/process
 в виде 
 {
     "fieldName": "222"
